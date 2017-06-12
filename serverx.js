@@ -1,4 +1,3 @@
-//server.js
 'use strict'
 
 //first we import our dependencies...
